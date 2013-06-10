@@ -7,7 +7,7 @@ if player == nil then
   return
 end
 if turtle == nil then
-  print("you must this on a turtle")
+  print("you must run this on a turtle")
   return
 end
 
